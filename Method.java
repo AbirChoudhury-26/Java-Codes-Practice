@@ -9,7 +9,6 @@ public class Method {
         myMethod();
         myMethod();
 
-        myMethod();
 
     }
 }
